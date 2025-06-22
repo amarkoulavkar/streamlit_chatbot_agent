@@ -9,3 +9,4 @@ pypdf
 python-docx
 faiss-cpu
 sentence-transformers
+serpapi
