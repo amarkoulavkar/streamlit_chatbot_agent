@@ -4,3 +4,8 @@ langchain-google-genai
 langchain-community
 google-generativeai
 numexpr
+serpapi
+pypdf
+python-docx
+faiss-cpu
+sentence-transformers
