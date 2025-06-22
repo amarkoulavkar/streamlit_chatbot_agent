@@ -8,7 +8,7 @@ from document_qa import build_doc_retriever, get_doc_answer
 # Set your Gemini API key
 os.environ["GOOGLE_API_KEY"] = "AIzaSyCvvm5VCVn2ur0TLD3_Sh_4mfzJf86bQ_E"
 # Set your SerpAPI key
-os.environ["SERPAPI_API_KEY"] = "463f1d23cd502ea7961877989a8cdf2837438f031496831630b7f6f9875fb935"  # <-- Replace with your actual SerpAPI key
+os.environ["SERPAPI_API_KEY"] = "6c9339c074b11e596d7ea7341b6aeafc69acf3b124cb5ce1df4eaf6d837ff29f"  # <-- Replace with your actual SerpAPI key
 
 # Load LLM
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0)
